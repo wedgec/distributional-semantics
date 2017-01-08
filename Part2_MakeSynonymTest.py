@@ -38,7 +38,7 @@ for pair in synPairs:
 		synsDict[inputWord] = synSet
 
 # to write test to new file
-outputWriter = open("synQuestions.txt", "w")
+outputWriter = open("snynonymTest.txt", "w")
 
 # structure of file is as follows: each line represents a question. Each line
 # has 7 words, separated by spaces. First word is the question word, to be matched with
