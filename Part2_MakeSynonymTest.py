@@ -10,7 +10,7 @@
 import random
 
 # opens take containing synonyms
-doc = open("EN_syn_verb.txt")
+doc = open("synonyms.txt")
 synPairs = doc.read().split("\n")
 
 # deletes non-data elements
