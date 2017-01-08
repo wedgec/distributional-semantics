@@ -3,7 +3,7 @@
 
 SCHOOL: Brandeis University  
 COURSE: COSI 114B: Fundamentals of Computational Linguistics  
-PROFESSOR: Marie Meteer
+PROFESSOR: Marie Meteer  
 HEAD TA: Nikhil Krishnaswamy
 SEMESTER: Spring 2016
 
