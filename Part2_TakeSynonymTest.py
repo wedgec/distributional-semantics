@@ -1,13 +1,4 @@
-# Name:       William Edgecomb 
-# Email:      wedgeco@brandeis.edu
-# Course:     COSI 114
-# Assignment: HW5   
-# Program:    Part2_TakeSynTest	- this script uses pre-trained distributional 
-#  			  semantic matrics (read in from file) to take a multiple choice 
-#		      synonym test, which is stored in a formatted text document. Each 
-#			  matrix is used to take the test according to two different strategies,
-#			  one utilizing euclidean distance and the other utilizing cosine similarity  		  
-# Date:       3 May 2016
+Q
 
 from DistributionalMatrix import distribMatrix
 
@@ -62,7 +53,7 @@ def takeSynTest(distribMat, questions, oovWords, strategy):
 	return stats
 
 
-synTest = open("synQuestions.txt")
+synTest = open("snynonymTest.txt")
 questions = synTest.read().split("\n")
 synTest.close()
 # deletes blank line at end of doc
