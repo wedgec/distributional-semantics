@@ -7,7 +7,7 @@
 **Head TA:** Nikhil Krishnaswamy  
 **Semester:** Spring 2016
 
-**Description**: The purpose of the assignment is to explore distributional semantic matrices and associated techniques. For Part 1 we were to construct a distributional semantic matrix from a small corpus, performing along the way smoothing, reweighting by positive pointwise mutual information (PPMI), and dimension reduction by singular value decomposition (SVD). For Part 2 our task was to use third-party distributional semantic matrices in conjunction with linear algebraic techniques in order to take multiple choice tests, one test for synonym identification and the other for analogy completion. Complete assignment instructions are available as a PDF. There is also a writeup for the assignment included in the repository.
+**Description**: The purpose of the assignment is to explore distributional semantic matrices and associated techniques. For Part 1 we were asked to construct a distributional semantic matrix from a small corpus, performing along the way smoothing, reweighting by positive pointwise mutual information (PPMI), and dimension reduction by singular value decomposition (SVD). For Part 2 our task was to use third-party distributional semantic matrices in conjunction with linear algebraic techniques in order to take multiple choice tests, one test for synonym identification and the other for analogy completion. Complete assignment instructions are available as a PDF. I also completed a writeup for the assignment which is included in the repository.
 
 **Files**:  
 + *DistributionalMatrix.py* -- object representing distributional semantic matrix. Performs associated computations, and is used throughout the assignment
