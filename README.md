@@ -11,7 +11,8 @@
 
 **Files**:  
 + *DistributionalMatrix.py* -- object representing distributional semantic matrix. Performs associated computations, and is used throughout the assignment
-+ *Part1_BasicDistribMat.py* -- script for accomplishing Part 1  
++ *Part1_BasicDistribMat.py* -- script for accomplishing Part 1
++ *small_corpus.txt* -- very small corpus used in Part 1
 + *Part2_MakeSynonymTest.py* -- composes synonyms test  
 + *synonyms.txt* -- file of synonym pairings used to create test  
 + *synonymTest* -- represents multiple choice synonym identification test, output of Part2_MakeSynonymTest.py  
