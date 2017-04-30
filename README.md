@@ -1,5 +1,5 @@
 # distributional-semantics
-###Solution to Computational Linguistics Assignment
+### Solution to Computational Linguistics Assignment
 
 **School:** Brandeis University  
 **Course:** COSI 114B: Fundamentals of Computational Linguistics  
